@@ -4,3 +4,4 @@
 - Học Git
 - Học Github
 - Quản lý dự án tốt hơn 
+- Có vông việc tốt hơn
